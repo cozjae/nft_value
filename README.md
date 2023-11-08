@@ -90,4 +90,4 @@ If you encounter any issues feel free to sent me a DM on my Twitter [@notluksus3
 
 **Known issues**
 Some special characters may resolve in some "File couldnt be loaded" errors.
-Try to remove any special characters from your file paths to resolve.
+Try to remove any special characters from your file paths to resolve...
